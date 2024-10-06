@@ -1,0 +1,3 @@
+#!/bin/fish
+sudo pacman -Syu && rm (cat /path/to/path.txt)
+

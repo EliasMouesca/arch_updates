@@ -1,0 +1,2 @@
+@reboot /path/to/check_updates.fish
+0 * * * * /path/to/check_updates.fish
